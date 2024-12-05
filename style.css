@@ -1,0 +1,16 @@
+.header{
+    color: black;
+    margin: 30px;
+    font-size: 30px;
+    text-align: center;
+    position: sticky;
+    top: 20px;
+
+}
+
+.container{
+    color: black;
+    margin: 30px;
+    text-align: justify;
+    column-count: 3;
+}
